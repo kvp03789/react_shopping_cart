@@ -1,7 +1,7 @@
 {
   "main.css": "kvp03789.github.io/react_shopping_cart/static/css/main.3fc23b9f.chunk.css",
-  "main.js": "kvp03789.github.io/react_shopping_cart/static/js/main.b21ddd75.chunk.js",
-  "main.js.map": "kvp03789.github.io/react_shopping_cart/static/js/main.b21ddd75.chunk.js.map",
+  "main.js": "kvp03789.github.io/react_shopping_cart/static/js/main.95c6dc0a.chunk.js",
+  "main.js.map": "kvp03789.github.io/react_shopping_cart/static/js/main.95c6dc0a.chunk.js.map",
   "static/js/1.3483ec74.chunk.js": "kvp03789.github.io/react_shopping_cart/static/js/1.3483ec74.chunk.js",
   "static/js/1.3483ec74.chunk.js.map": "kvp03789.github.io/react_shopping_cart/static/js/1.3483ec74.chunk.js.map",
   "runtime~main.js": "kvp03789.github.io/react_shopping_cart/static/js/runtime~main.a7a116cd.js",
@@ -10,6 +10,6 @@
   "static/media/user-icon.svg": "kvp03789.github.io/react_shopping_cart/static/media/user-icon.959b5ff1.svg",
   "static/css/main.3fc23b9f.chunk.css.map": "kvp03789.github.io/react_shopping_cart/static/css/main.3fc23b9f.chunk.css.map",
   "index.html": "kvp03789.github.io/react_shopping_cart/index.html",
-  "precache-manifest.1e1273df61b71b7e27864013ca730659.js": "kvp03789.github.io/react_shopping_cart/precache-manifest.1e1273df61b71b7e27864013ca730659.js",
+  "precache-manifest.77cd19ce376c63762e48d99645893f42.js": "kvp03789.github.io/react_shopping_cart/precache-manifest.77cd19ce376c63762e48d99645893f42.js",
   "service-worker.js": "kvp03789.github.io/react_shopping_cart/service-worker.js"
 }
