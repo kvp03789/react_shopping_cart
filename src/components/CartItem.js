@@ -1,9 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import {useState} from 'react'
 
 const CartItem = (props) => {
 
   const [quantity, setQuantity] = useState(props.cartItem.quantity)
+  useEffect(() => {
+    props.handleQuantityChange(props.cartItem, quantity)
+  }, [quantity])
 
   const handleClick = () => {
     props.handleCartRemove()
@@ -11,12 +14,10 @@ const CartItem = (props) => {
 
   const handleClickIncrease= (e) => {
     setQuantity(quantity+1)
-    props.handleQuantityChange(props.cartItem, quantity)
   }
 
   const handleClickDecrease= (e) => {
     setQuantity(quantity-1)
-    props.handleQuantityChange(props.cartItem, quantity)
   }
 
   return (
