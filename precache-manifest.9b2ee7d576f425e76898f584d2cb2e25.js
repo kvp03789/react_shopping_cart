@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "95c6dc0aa999cd4163f0",
+    "revision": "fcdfcec7e9a3740942be",
     "url": "kvp03789.github.io/react_shopping_cart/static/css/main.3fc23b9f.chunk.css"
   },
   {
-    "revision": "95c6dc0aa999cd4163f0",
-    "url": "kvp03789.github.io/react_shopping_cart/static/js/main.95c6dc0a.chunk.js"
+    "revision": "fcdfcec7e9a3740942be",
+    "url": "kvp03789.github.io/react_shopping_cart/static/js/main.fcdfcec7.chunk.js"
   },
   {
     "revision": "3483ec7423f827aa0b3e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "kvp03789.github.io/react_shopping_cart/static/media/user-icon.959b5ff1.svg"
   },
   {
-    "revision": "d9a738b8c53121dc1eb94d51d435e4be",
+    "revision": "96b03db763e8743a6a96fe233f2927df",
     "url": "kvp03789.github.io/react_shopping_cart/index.html"
   }
 ];
